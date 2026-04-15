@@ -1,0 +1,7 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://github.com/ayushverma2310/Casual-/raw/refs/heads/master/WineQT.csv
+  local_data_file: artifacts/data_ingestion/data.csv
+  unzip_dir: artifacts/data_ingestion
