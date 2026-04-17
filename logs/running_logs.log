@@ -139,3 +139,68 @@ Source-Age: 0
 [2026-04-15 12:04:39,796:INFO]:>>>>>>> stage Data Ingestion Stagecompleted <<<<<<
 
 x==========x]
+[2026-04-16 12:07:11,301:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-16 12:07:11,327:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-16 12:07:11,330:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-16 12:07:11,332:INFO]:Created directory at: artifacts]
+[2026-04-16 12:07:11,334:INFO]:Created directory at: artifacts/data_validation]
+[2026-04-16 12:19:27,965:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-16 12:19:27,969:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-16 12:19:27,972:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-16 12:19:27,973:INFO]:Created directory at: artifacts]
+[2026-04-16 12:19:27,975:INFO]:Created directory at: artifacts/data_validation]
+[2026-04-16 12:20:25,377:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-16 12:20:25,382:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-16 12:20:25,386:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-16 12:20:25,387:INFO]:Created directory at: artifacts]
+[2026-04-16 12:20:25,388:INFO]:Created directory at: artifacts/data_validation]
+[2026-04-16 12:21:12,513:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-16 12:21:12,521:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-16 12:21:12,527:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-16 12:21:12,528:INFO]:Created directory at: artifacts]
+[2026-04-16 12:21:12,530:INFO]:Created directory at: artifacts/data_validation]
+[2026-04-17 12:20:39,122:INFO]:>>>>>>> stage Data Ingestion Stage started<<<<<<]
+[2026-04-17 12:20:39,126:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 12:20:39,128:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 12:20:39,129:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 12:20:39,130:INFO]:Created directory at: artifacts]
+[2026-04-17 12:20:39,131:INFO]:Created directory at: artifacts/data_ingestion]
+[2026-04-17 12:20:40,084:INFO]:artifacts/data_ingestion/data.csv download! with following info: 
+Connection: close
+Content-Length: 78057
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: text/plain; charset=utf-8
+ETag: "ca7a85dc19efbe7c0c1cdf8ed8df8b6bf57ce00648f6dc267ffecfd84ff97101"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A90A:187762:0ACE:147F:69E22596
+Accept-Ranges: bytes
+Date: Fri, 17 Apr 2026 12:20:40 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830040-CCU
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1776428440.778379,VS0,VE316
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 1cf786466e1a1686e4e46f73bcc3fd2660e46a99
+Expires: Fri, 17 Apr 2026 12:25:40 GMT
+Source-Age: 0
+
+]
+[2026-04-17 12:20:40,084:INFO]:>>>>>>> stage Data Ingestion Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-17 12:20:40,084:INFO]:>>>>>>> stage Data Validation Stage started<<<<<<]
+[2026-04-17 12:20:40,085:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 12:20:40,085:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 12:20:40,086:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 12:20:40,087:INFO]:Created directory at: artifacts]
+[2026-04-17 12:20:40,087:INFO]:Created directory at: artifacts/data_validation]
+[2026-04-17 12:20:40,095:INFO]:>>>>>>> stage Data Validation Stagecompleted <<<<<<
+
+x==========x]
