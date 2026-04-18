@@ -204,3 +204,300 @@ x==========x]
 [2026-04-17 12:20:40,095:INFO]:>>>>>>> stage Data Validation Stagecompleted <<<<<<
 
 x==========x]
+[2026-04-17 15:42:19,878:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 15:42:19,890:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 15:42:19,896:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 15:42:19,898:INFO]:Created directory at: artifacts]
+[2026-04-17 15:42:19,903:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-17 15:44:48,696:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 15:44:48,699:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 15:44:48,701:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 15:44:48,702:INFO]:Created directory at: artifacts]
+[2026-04-17 15:44:48,703:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-17 15:45:05,431:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 15:45:05,433:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 15:45:05,435:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 15:45:05,436:INFO]:Created directory at: artifacts]
+[2026-04-17 15:45:05,437:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-17 15:45:18,318:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 15:45:18,320:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 15:45:18,322:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 15:45:18,323:INFO]:Created directory at: artifacts]
+[2026-04-17 15:45:18,324:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-17 15:47:00,713:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 15:47:00,715:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 15:47:00,717:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 15:47:00,718:INFO]:Created directory at: artifacts]
+[2026-04-17 15:47:00,719:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-17 15:48:15,996:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 15:48:15,998:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 15:48:16,000:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 15:48:16,001:INFO]:Created directory at: artifacts]
+[2026-04-17 15:48:16,002:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-17 15:48:55,340:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 15:48:55,341:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 15:48:55,344:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 15:48:55,345:INFO]:Created directory at: artifacts]
+[2026-04-17 15:48:55,345:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-17 15:51:16,192:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 15:51:16,194:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 15:51:16,196:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 15:51:16,198:INFO]:Created directory at: artifacts]
+[2026-04-17 15:51:16,199:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-17 15:52:20,564:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 15:52:20,566:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 15:52:20,568:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 15:52:20,569:INFO]:Created directory at: artifacts]
+[2026-04-17 15:52:20,570:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-17 15:52:20,626:INFO]:Splitted data into training and test sets]
+[2026-04-17 15:52:20,626:INFO]:(857, 13)]
+[2026-04-17 15:52:20,627:INFO]:(286, 13)]
+[2026-04-17 16:16:47,174:INFO]:>>>>>>> stage Data Ingestion Stage started<<<<<<]
+[2026-04-17 16:16:47,176:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 16:16:47,177:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 16:16:47,179:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 16:16:47,179:INFO]:Created directory at: artifacts]
+[2026-04-17 16:16:47,180:INFO]:Created directory at: artifacts/data_ingestion]
+[2026-04-17 16:16:48,129:INFO]:artifacts/data_ingestion/data.csv download! with following info: 
+Connection: close
+Content-Length: 78057
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: text/plain; charset=utf-8
+ETag: "ca7a85dc19efbe7c0c1cdf8ed8df8b6bf57ce00648f6dc267ffecfd84ff97101"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 45B2:4154F:4F748:ACD3D:69E25CEC
+Accept-Ranges: bytes
+Date: Fri, 17 Apr 2026 16:16:47 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830057-CCU
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1776442607.364281,VS0,VE341
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: d3a6a145ad032f772154f28e92c84586f23500e4
+Expires: Fri, 17 Apr 2026 16:21:47 GMT
+Source-Age: 0
+
+]
+[2026-04-17 16:16:48,129:INFO]:>>>>>>> stage Data Ingestion Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-17 16:16:48,129:INFO]:>>>>>>> stage Data Validation Stage started<<<<<<]
+[2026-04-17 16:16:48,130:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 16:16:48,130:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 16:16:48,131:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 16:16:48,131:INFO]:Created directory at: artifacts]
+[2026-04-17 16:16:48,132:INFO]:Created directory at: artifacts/data_validation]
+[2026-04-17 16:16:48,138:INFO]:>>>>>>> stage Data Validation Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-17 16:18:32,042:INFO]:>>>>>>> stage Data Ingestion Stage started<<<<<<]
+[2026-04-17 16:18:32,043:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 16:18:32,044:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 16:18:32,045:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 16:18:32,045:INFO]:Created directory at: artifacts]
+[2026-04-17 16:18:32,046:INFO]:Created directory at: artifacts/data_ingestion]
+[2026-04-17 16:18:32,252:INFO]:artifacts/data_ingestion/data.csv download! with following info: 
+Connection: close
+Content-Length: 78057
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: text/plain; charset=utf-8
+ETag: "ca7a85dc19efbe7c0c1cdf8ed8df8b6bf57ce00648f6dc267ffecfd84ff97101"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 45B2:4154F:4F748:ACD3D:69E25CEC
+Accept-Ranges: bytes
+Date: Fri, 17 Apr 2026 16:18:31 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830033-CCU
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1776442712.858653,VS0,VE1
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: eadeeeab3839d98b1fd97aaf7d6f6e566060751b
+Expires: Fri, 17 Apr 2026 16:23:31 GMT
+Source-Age: 104
+
+]
+[2026-04-17 16:18:32,253:INFO]:>>>>>>> stage Data Ingestion Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-17 16:18:32,253:INFO]:>>>>>>> stage Data Validation Stage started<<<<<<]
+[2026-04-17 16:18:32,254:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 16:18:32,254:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 16:18:32,255:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 16:18:32,256:INFO]:Created directory at: artifacts]
+[2026-04-17 16:18:32,256:INFO]:Created directory at: artifacts/data_validation]
+[2026-04-17 16:18:32,265:INFO]:>>>>>>> stage Data Validation Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-17 16:18:32,265:INFO]:>>>>>>> stage Data Transformation Stage started<<<<<<]
+[2026-04-17 16:18:32,266:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-17 16:18:32,266:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-17 16:18:32,268:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-17 16:18:32,268:INFO]:Created directory at: artifacts]
+[2026-04-17 16:18:32,268:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-17 16:18:32,280:INFO]:Splited data into training and test sets]
+[2026-04-17 16:18:32,280:INFO]:(857, 13)]
+[2026-04-17 16:18:32,280:INFO]:(286, 13)]
+[2026-04-17 16:18:32,280:INFO]:>>>>>>> stage Data Transformation Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-18 07:51:55,331:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 07:51:55,353:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 07:51:55,359:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 07:51:55,362:INFO]:Created directory at: artifacts]
+[2026-04-18 07:53:37,850:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 07:53:37,853:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 07:53:37,859:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 07:53:37,861:INFO]:Created directory at: artifacts]
+[2026-04-18 08:00:12,725:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 08:00:12,732:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 08:00:12,743:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 08:00:12,750:INFO]:Created directory at: artifacts]
+[2026-04-18 08:00:12,757:INFO]:Created directory at: artifacts/model_trainer]
+[2026-04-18 08:04:01,171:ERROR]:Error reading YAML file: [Errno 2] No such file or directory: 'config/config.yaml']
+[2026-04-18 08:07:34,810:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 08:07:34,814:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 08:07:34,820:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 08:07:34,823:INFO]:Created directory at: artifacts]
+[2026-04-18 08:07:34,826:INFO]:Created directory at: artifacts/model_trainer]
+[2026-04-18 08:10:02,294:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 08:10:02,302:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 08:10:02,311:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 08:10:02,314:INFO]:Created directory at: artifacts]
+[2026-04-18 08:10:02,318:INFO]:Created directory at: artifacts/model_trainer]
+[2026-04-18 08:59:13,473:INFO]:>>>>>>> stage Data Ingestion Stage started<<<<<<]
+[2026-04-18 08:59:13,476:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 08:59:13,478:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 08:59:13,480:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 08:59:13,485:INFO]:Created directory at: artifacts]
+[2026-04-18 08:59:13,485:INFO]:Created directory at: artifacts/data_ingestion]
+[2026-04-18 08:59:14,418:INFO]:artifacts/data_ingestion/data.csv download! with following info: 
+Connection: close
+Content-Length: 78057
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: text/plain; charset=utf-8
+ETag: "ca7a85dc19efbe7c0c1cdf8ed8df8b6bf57ce00648f6dc267ffecfd84ff97101"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 400A:9CA4B:A581B:1CCAE9:69E347E1
+Accept-Ranges: bytes
+Date: Sat, 18 Apr 2026 08:59:13 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830022-CCU
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1776502754.630435,VS0,VE305
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 3ffa31dd1c4a2ec5405b65ff843ab9205bd48e0d
+Expires: Sat, 18 Apr 2026 09:04:13 GMT
+Source-Age: 0
+
+]
+[2026-04-18 08:59:14,419:INFO]:>>>>>>> stage Data Ingestion Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-18 08:59:14,419:INFO]:>>>>>>> stage Data Validation Stage started<<<<<<]
+[2026-04-18 08:59:14,420:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 08:59:14,421:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 08:59:14,422:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 08:59:14,423:INFO]:Created directory at: artifacts]
+[2026-04-18 08:59:14,423:INFO]:Created directory at: artifacts/data_validation]
+[2026-04-18 08:59:14,440:INFO]:>>>>>>> stage Data Validation Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-18 08:59:14,440:INFO]:>>>>>>> stage Data Transformation Stage started<<<<<<]
+[2026-04-18 08:59:14,443:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 08:59:14,443:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 08:59:14,446:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 08:59:14,446:INFO]:Created directory at: artifacts]
+[2026-04-18 08:59:14,447:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-18 08:59:14,482:INFO]:Splited data into training and test sets]
+[2026-04-18 08:59:14,482:INFO]:(857, 13)]
+[2026-04-18 08:59:14,482:INFO]:(286, 13)]
+[2026-04-18 08:59:14,483:INFO]:>>>>>>> stage Data Transformation Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-18 09:08:26,432:INFO]:>>>>>>> stage Data Ingestion Stage started<<<<<<]
+[2026-04-18 09:08:26,434:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 09:08:26,435:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 09:08:26,437:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 09:08:26,437:INFO]:Created directory at: artifacts]
+[2026-04-18 09:08:26,438:INFO]:Created directory at: artifacts/data_ingestion]
+[2026-04-18 09:08:27,293:INFO]:artifacts/data_ingestion/data.csv download! with following info: 
+Connection: close
+Content-Length: 78057
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: text/plain; charset=utf-8
+ETag: "ca7a85dc19efbe7c0c1cdf8ed8df8b6bf57ce00648f6dc267ffecfd84ff97101"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 400A:9CA4B:A581B:1CCAE9:69E347E1
+Accept-Ranges: bytes
+Date: Sat, 18 Apr 2026 09:08:27 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830027-CCU
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1776503307.966429,VS0,VE253
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 91225e040d84060aa032d8f33f63ba27d474dfdf
+Expires: Sat, 18 Apr 2026 09:13:27 GMT
+Source-Age: 0
+
+]
+[2026-04-18 09:08:27,293:INFO]:>>>>>>> stage Data Ingestion Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-18 09:08:27,293:INFO]:>>>>>>> stage Data Validation Stage started<<<<<<]
+[2026-04-18 09:08:27,295:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 09:08:27,296:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 09:08:27,298:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 09:08:27,298:INFO]:Created directory at: artifacts]
+[2026-04-18 09:08:27,299:INFO]:Created directory at: artifacts/data_validation]
+[2026-04-18 09:08:27,319:INFO]:>>>>>>> stage Data Validation Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-18 09:08:27,319:INFO]:>>>>>>> stage Data Transformation Stage started<<<<<<]
+[2026-04-18 09:08:27,323:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 09:08:27,326:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 09:08:27,330:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 09:08:27,332:INFO]:Created directory at: artifacts]
+[2026-04-18 09:08:27,333:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-18 09:08:27,353:INFO]:Splited data into training and test sets]
+[2026-04-18 09:08:27,353:INFO]:(857, 13)]
+[2026-04-18 09:08:27,353:INFO]:(286, 13)]
+[2026-04-18 09:08:27,354:INFO]:>>>>>>> stage Data Transformation Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-18 09:08:27,354:INFO]:>>>>>> stage Model Trainer Stage started <<<<<<]
+[2026-04-18 09:08:27,356:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 09:08:27,357:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 09:08:27,359:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 09:08:27,360:INFO]:Created directory at: artifacts]
+[2026-04-18 09:08:27,360:INFO]:Created directory at: artifacts/model_trainer]
+[2026-04-18 09:08:27,378:INFO]:>>>>>> stage Model Trainer Stage completed <<<<<<
+
+x==========x]

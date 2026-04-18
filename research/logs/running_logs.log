@@ -13,3 +13,4 @@
 [2026-04-15 10:18:58,798:INFO]:YAML file loaded successfully from: params.yaml]
 [2026-04-15 10:18:58,800:INFO]:YAML file loaded successfully from: schema.yaml]
 [2026-04-15 10:21:29,396:ERROR]:Error reading YAML file: [Errno 2] No such file or directory: 'config/config.yaml']
+[2026-04-18 08:06:36,171:ERROR]:Error reading YAML file: [Errno 2] No such file or directory: 'config/config.yaml']
