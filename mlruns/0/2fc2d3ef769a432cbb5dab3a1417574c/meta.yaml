@@ -1,0 +1,15 @@
+artifact_uri: file:///home/verma/end_to_end_mlops/mlruns/0/2fc2d3ef769a432cbb5dab3a1417574c/artifacts
+end_time: 1776592683829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fc2d3ef769a432cbb5dab3a1417574c
+run_name: burly-jay-189
+run_uuid: 2fc2d3ef769a432cbb5dab3a1417574c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776592679862
+status: 3
+tags: []
+user_id: verma

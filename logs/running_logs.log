@@ -501,3 +501,499 @@ x==========x]
 [2026-04-18 09:08:27,378:INFO]:>>>>>> stage Model Trainer Stage completed <<<<<<
 
 x==========x]
+[2026-04-18 13:57:31,604:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 13:57:31,621:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 13:57:31,629:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 13:57:31,634:INFO]:Created directory at: artifacts]
+[2026-04-18 13:57:31,641:INFO]:Created directory at: aritfacts/model_evaluation]
+[2026-04-18 14:04:16,360:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 14:04:16,367:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 14:04:16,376:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 14:04:16,380:INFO]:Created directory at: artifacts]
+[2026-04-18 14:04:16,382:INFO]:Created directory at: aritfacts/model_evaluation]
+[2026-04-18 14:04:42,662:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 14:04:42,668:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 14:04:42,677:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 14:04:42,680:INFO]:Created directory at: artifacts]
+[2026-04-18 14:04:42,684:INFO]:Created directory at: aritfacts/model_evaluation]
+[2026-04-18 14:04:47,002:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 14:04:47,004:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 14:04:47,007:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 14:04:47,009:INFO]:Created directory at: artifacts]
+[2026-04-18 14:04:47,011:INFO]:Created directory at: aritfacts/model_evaluation]
+[2026-04-18 14:04:57,907:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 14:04:57,913:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 14:04:57,920:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 14:04:57,923:INFO]:Created directory at: artifacts]
+[2026-04-18 14:04:57,925:INFO]:Created directory at: aritfacts/model_evaluation]
+[2026-04-18 14:06:39,197:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-18 14:06:39,205:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-18 14:06:39,214:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-18 14:06:39,218:INFO]:Created directory at: artifacts]
+[2026-04-18 14:06:39,223:INFO]:Created directory at: aritfacts/model_evaluation]
+[2026-04-19 08:59:49,369:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 08:59:49,382:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 08:59:49,392:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 08:59:49,398:INFO]:Created directory at: artifacts]
+[2026-04-19 08:59:49,402:INFO]:Created directory at: aritfacts/model_evaluation]
+[2026-04-19 09:03:02,982:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 09:03:02,988:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 09:03:02,995:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 09:03:02,997:INFO]:Created directory at: artifacts]
+[2026-04-19 09:03:03,000:INFO]:Created directory at: aritfacts/model_evaluation]
+[2026-04-19 09:03:30,395:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 09:03:30,402:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 09:03:30,408:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 09:03:30,411:INFO]:Created directory at: artifacts]
+[2026-04-19 09:03:30,413:INFO]:Created directory at: aritfacts/model_evaluation]
+[2026-04-19 09:04:35,932:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 09:04:35,938:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 09:04:35,944:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 09:04:35,946:INFO]:Created directory at: artifacts]
+[2026-04-19 09:04:35,949:INFO]:Created directory at: aritfacts/model_evaluation]
+[2026-04-19 09:07:07,502:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 09:07:07,507:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 09:07:07,512:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 09:07:07,514:INFO]:Created directory at: artifacts]
+[2026-04-19 09:07:07,517:INFO]:Created directory at: artifacts/model_evaluation]
+[2026-04-19 09:07:08,742:INFO]:JSON file saved at: artifacts/model_evaluation/metrics.json]
+[2026-04-19 09:43:54,501:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 09:43:54,510:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 09:43:54,519:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 09:43:54,523:INFO]:Created directory at: artifacts]
+[2026-04-19 09:43:54,529:INFO]:Created directory at: artifacts/model_evaluation]
+[2026-04-19 09:43:55,701:INFO]:JSON file saved at: artifacts/model_evaluation/metrics.json]
+[2026-04-19 09:57:58,596:INFO]:>>>>>>> stage Data Ingestion Stage started<<<<<<]
+[2026-04-19 09:57:58,601:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 09:57:58,602:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 09:57:58,604:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 09:57:58,605:INFO]:Created directory at: artifacts]
+[2026-04-19 09:57:58,605:INFO]:Created directory at: artifacts/data_ingestion]
+[2026-04-19 09:57:59,618:INFO]:artifacts/data_ingestion/data.csv download! with following info: 
+Connection: close
+Content-Length: 78057
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: text/plain; charset=utf-8
+ETag: "ca7a85dc19efbe7c0c1cdf8ed8df8b6bf57ce00648f6dc267ffecfd84ff97101"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: DADC:29F54A:241CD2:5B86F8:69E4A725
+Accept-Ranges: bytes
+Date: Sun, 19 Apr 2026 09:57:59 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830053-CCU
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1776592679.178778,VS0,VE418
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 3a5b0728863d01bdeadca44a2302c120d39c4031
+Expires: Sun, 19 Apr 2026 10:02:59 GMT
+Source-Age: 0
+
+]
+[2026-04-19 09:57:59,619:INFO]:>>>>>>> stage Data Ingestion Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-19 09:57:59,619:INFO]:>>>>>>> stage Data Validation Stage started<<<<<<]
+[2026-04-19 09:57:59,621:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 09:57:59,622:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 09:57:59,623:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 09:57:59,623:INFO]:Created directory at: artifacts]
+[2026-04-19 09:57:59,624:INFO]:Created directory at: artifacts/data_validation]
+[2026-04-19 09:57:59,643:INFO]:>>>>>>> stage Data Validation Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-19 09:57:59,643:INFO]:>>>>>>> stage Data Transformation Stage started<<<<<<]
+[2026-04-19 09:57:59,647:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 09:57:59,648:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 09:57:59,651:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 09:57:59,652:INFO]:Created directory at: artifacts]
+[2026-04-19 09:57:59,655:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-19 09:57:59,704:INFO]:Splited data into training and test sets]
+[2026-04-19 09:57:59,704:INFO]:(857, 13)]
+[2026-04-19 09:57:59,704:INFO]:(286, 13)]
+[2026-04-19 09:57:59,705:INFO]:>>>>>>> stage Data Transformation Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-19 09:57:59,705:INFO]:>>>>>> stage Model Trainer Stage started <<<<<<]
+[2026-04-19 09:57:59,710:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 09:57:59,712:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 09:57:59,714:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 09:57:59,715:INFO]:Created directory at: artifacts]
+[2026-04-19 09:57:59,715:INFO]:Created directory at: artifacts/model_trainer]
+[2026-04-19 09:57:59,746:INFO]:>>>>>> stage Model Trainer Stage completed <<<<<<
+
+x==========x]
+[2026-04-19 09:57:59,746:INFO]:>>>>>> stage Model Evaluation Stage started <<<<<<]
+[2026-04-19 09:57:59,749:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 09:57:59,750:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 09:57:59,752:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 09:57:59,752:INFO]:Created directory at: artifacts]
+[2026-04-19 09:57:59,753:INFO]:Created directory at: artifacts/model_evaluation]
+[2026-04-19 09:57:59,888:INFO]:JSON file saved at: artifacts/model_evaluation/metrics.json]
+[2026-04-19 09:58:03,831:INFO]:>>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2026-04-19 10:08:29,821:INFO]:>>>>>>> stage Data Ingestion Stage started<<<<<<]
+[2026-04-19 10:08:29,826:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 10:08:29,827:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 10:08:29,829:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 10:08:29,830:INFO]:Created directory at: artifacts]
+[2026-04-19 10:08:29,830:INFO]:Created directory at: artifacts/data_ingestion]
+[2026-04-19 10:08:29,830:INFO]:File already exists of size: ~ 76 KB]
+[2026-04-19 10:08:29,830:INFO]:>>>>>>> stage Data Ingestion Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-19 10:08:29,830:INFO]:>>>>>>> stage Data Validation Stage started<<<<<<]
+[2026-04-19 10:08:29,834:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 10:08:29,835:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 10:08:29,838:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 10:08:29,838:INFO]:Created directory at: artifacts]
+[2026-04-19 10:08:29,839:INFO]:Created directory at: artifacts/data_validation]
+[2026-04-19 10:08:29,866:INFO]:>>>>>>> stage Data Validation Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-19 10:08:29,867:INFO]:>>>>>>> stage Data Transformation Stage started<<<<<<]
+[2026-04-19 10:08:29,873:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 10:08:29,876:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 10:08:29,880:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 10:08:29,880:INFO]:Created directory at: artifacts]
+[2026-04-19 10:08:29,881:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-19 10:08:29,924:INFO]:Splited data into training and test sets]
+[2026-04-19 10:08:29,925:INFO]:(857, 13)]
+[2026-04-19 10:08:29,925:INFO]:(286, 13)]
+[2026-04-19 10:08:29,925:INFO]:>>>>>>> stage Data Transformation Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-19 10:08:29,926:INFO]:>>>>>> stage Model Trainer Stage started <<<<<<]
+[2026-04-19 10:08:29,932:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 10:08:29,934:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 10:08:29,940:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 10:08:29,940:INFO]:Created directory at: artifacts]
+[2026-04-19 10:08:29,941:INFO]:Created directory at: artifacts/model_trainer]
+[2026-04-19 10:08:29,972:INFO]:>>>>>> stage Model Trainer Stage completed <<<<<<
+
+x==========x]
+[2026-04-19 10:08:29,972:INFO]:>>>>>> stage Model Evaluation Stage started <<<<<<]
+[2026-04-19 10:08:29,978:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 10:08:29,980:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 10:08:29,985:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 10:08:29,986:INFO]:Created directory at: artifacts]
+[2026-04-19 10:08:29,986:INFO]:Created directory at: artifacts/model_evaluation]
+[2026-04-19 10:08:31,277:INFO]:JSON file saved at: artifacts/model_evaluation/metrics.json]
+[2026-04-19 10:08:39,944:INFO]:>>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2026-04-19 12:13:43,860:INFO]:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.21.135.76:8080]
+[2026-04-19 12:13:43,862:INFO]:[33mPress CTRL+C to quit[0m]
+[2026-04-19 12:13:43,864:INFO]: * Restarting with stat]
+[2026-04-19 12:13:44,812:WARNING]: * Debugger is active!]
+[2026-04-19 12:13:44,816:INFO]: * Debugger PIN: 521-161-780]
+[2026-04-19 12:13:52,593:ERROR]:172.21.128.1 - - [19/Apr/2026 12:13:52] code 400, message Bad request syntax ("\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03Çèïs{ó\\¢YAõEÿeÕµ£Y¤\x8a´¾F'")]
+[2026-04-19 12:13:52,594:INFO]:172.21.128.1 - - [19/Apr/2026 12:13:52] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03Çèïs{ó\\¢YAõEÿeÕµ£Y¤\x8a´¾F'[0m" HTTPStatus.BAD_REQUEST -]
+[2026-04-19 12:13:52,610:ERROR]:172.21.128.1 - - [19/Apr/2026 12:13:52] code 400, message Bad request version ('\x02h2\x08http/1.1\x00')]
+[2026-04-19 12:13:52,611:INFO]:172.21.128.1 - - [19/Apr/2026 12:13:52] "[35m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03O®«F 8\x11pH\x93´/}ÈÅG¶Ñm\x88Ì2^[I\x9cö\x9bÌyâ\x02 \x07\x0bw³`\x1c\x808´Éì×ZAPÛáÔúÚ\x90}\x83\x9bÆ1ü.kÔ{Q\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93zz\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00[0m" HTTPStatus.BAD_REQUEST -]
+[2026-04-19 12:13:56,738:INFO]:172.21.128.1 - - [19/Apr/2026 12:13:56] "GET / HTTP/1.1" 200 -]
+[2026-04-19 12:13:56,835:INFO]:172.21.128.1 - - [19/Apr/2026 12:13:56] "[33mGET /static/js/scripts.js HTTP/1.1[0m" 404 -]
+[2026-04-19 12:13:56,874:INFO]:172.21.128.1 - - [19/Apr/2026 12:13:56] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2026-04-19 12:13:56,878:INFO]:172.21.128.1 - - [19/Apr/2026 12:13:56] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2026-04-19 12:13:56,881:INFO]:172.21.128.1 - - [19/Apr/2026 12:13:56] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2026-04-19 12:13:58,912:INFO]:172.21.128.1 - - [19/Apr/2026 12:13:58] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:13:58,914:INFO]:172.21.128.1 - - [19/Apr/2026 12:13:58] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:13:59,015:INFO]:172.21.128.1 - - [19/Apr/2026 12:13:59] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2026-04-19 12:14:02,260:INFO]:172.21.128.1 - - [19/Apr/2026 12:14:02] "[33mGET /static/assets/favicon.ico HTTP/1.1[0m" 404 -]
+[2026-04-19 12:22:52,850:INFO]: * Detected change in '/home/verma/end_to_end_mlops/app.py', reloading]
+[2026-04-19 12:22:53,155:INFO]: * Restarting with stat]
+[2026-04-19 12:22:55,664:WARNING]: * Debugger is active!]
+[2026-04-19 12:22:55,667:INFO]: * Debugger PIN: 521-161-780]
+[2026-04-19 12:22:59,722:INFO]: * Detected change in '/home/verma/end_to_end_mlops/app.py', reloading]
+[2026-04-19 12:22:59,937:INFO]: * Restarting with stat]
+[2026-04-19 12:23:01,022:WARNING]: * Debugger is active!]
+[2026-04-19 12:23:01,024:INFO]: * Debugger PIN: 521-161-780]
+[2026-04-19 12:25:34,846:INFO]:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.21.135.76:8080]
+[2026-04-19 12:25:34,847:INFO]:[33mPress CTRL+C to quit[0m]
+[2026-04-19 12:25:34,850:INFO]: * Restarting with stat]
+[2026-04-19 12:25:36,027:WARNING]: * Debugger is active!]
+[2026-04-19 12:25:36,029:INFO]: * Debugger PIN: 521-161-780]
+[2026-04-19 12:25:39,945:INFO]:127.0.0.1 - - [19/Apr/2026 12:25:39] "GET / HTTP/1.1" 200 -]
+[2026-04-19 12:25:40,448:INFO]:127.0.0.1 - - [19/Apr/2026 12:25:40] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2026-04-19 12:25:40,452:INFO]:127.0.0.1 - - [19/Apr/2026 12:25:40] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2026-04-19 12:25:40,457:INFO]:127.0.0.1 - - [19/Apr/2026 12:25:40] "[33mGET /static/js/scripts.js HTTP/1.1[0m" 404 -]
+[2026-04-19 12:25:40,458:INFO]:127.0.0.1 - - [19/Apr/2026 12:25:40] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2026-04-19 12:25:41,942:INFO]:127.0.0.1 - - [19/Apr/2026 12:25:41] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:25:41,945:INFO]:127.0.0.1 - - [19/Apr/2026 12:25:41] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:25:42,033:INFO]:127.0.0.1 - - [19/Apr/2026 12:25:42] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2026-04-19 12:25:44,798:INFO]:127.0.0.1 - - [19/Apr/2026 12:25:44] "[33mGET /static/assets/favicon.ico HTTP/1.1[0m" 404 -]
+[2026-04-19 12:25:54,944:INFO]:>>>>>>> stage Data Ingestion Stage started<<<<<<]
+[2026-04-19 12:25:54,948:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 12:25:54,951:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 12:25:54,954:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 12:25:54,956:INFO]:Created directory at: artifacts]
+[2026-04-19 12:25:54,956:INFO]:Created directory at: artifacts/data_ingestion]
+[2026-04-19 12:25:55,958:INFO]:artifacts/data_ingestion/data.csv download! with following info: 
+Connection: close
+Content-Length: 78057
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: text/plain; charset=utf-8
+ETag: "ca7a85dc19efbe7c0c1cdf8ed8df8b6bf57ce00648f6dc267ffecfd84ff97101"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: DADC:29F54A:241CD2:5B86F8:69E4A725
+Accept-Ranges: bytes
+Date: Sun, 19 Apr 2026 12:25:55 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830023-CCU
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1776601556.545832,VS0,VE289
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 0a686aeb172b7904ecbd7fbdc5ffe00757da03db
+Expires: Sun, 19 Apr 2026 12:30:55 GMT
+Source-Age: 0
+
+]
+[2026-04-19 12:25:55,958:INFO]:>>>>>>> stage Data Ingestion Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-19 12:25:55,958:INFO]:>>>>>>> stage Data Validation Stage started<<<<<<]
+[2026-04-19 12:25:55,962:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 12:25:55,963:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 12:25:55,965:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 12:25:55,966:INFO]:Created directory at: artifacts]
+[2026-04-19 12:25:55,978:INFO]:Created directory at: artifacts/data_validation]
+[2026-04-19 12:25:56,003:INFO]:>>>>>>> stage Data Validation Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-19 12:25:56,003:INFO]:>>>>>>> stage Data Transformation Stage started<<<<<<]
+[2026-04-19 12:25:56,007:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 12:25:56,009:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 12:25:56,012:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 12:25:56,013:INFO]:Created directory at: artifacts]
+[2026-04-19 12:25:56,014:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-19 12:25:56,059:INFO]:Splited data into training and test sets]
+[2026-04-19 12:25:56,060:INFO]:(857, 13)]
+[2026-04-19 12:25:56,060:INFO]:(286, 13)]
+[2026-04-19 12:25:56,061:INFO]:>>>>>>> stage Data Transformation Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-19 12:25:56,061:INFO]:>>>>>> stage Model Trainer Stage started <<<<<<]
+[2026-04-19 12:25:56,066:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 12:25:56,067:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 12:25:56,070:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 12:25:56,071:INFO]:Created directory at: artifacts]
+[2026-04-19 12:25:56,073:INFO]:Created directory at: artifacts/model_trainer]
+[2026-04-19 12:25:56,105:INFO]:>>>>>> stage Model Trainer Stage completed <<<<<<
+
+x==========x]
+[2026-04-19 12:25:56,105:INFO]:>>>>>> stage Model Evaluation Stage started <<<<<<]
+[2026-04-19 12:25:56,114:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 12:25:56,117:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 12:25:56,121:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 12:25:56,122:INFO]:Created directory at: artifacts]
+[2026-04-19 12:25:56,124:INFO]:Created directory at: artifacts/model_evaluation]
+[2026-04-19 12:25:57,474:INFO]:JSON file saved at: artifacts/model_evaluation/metrics.json]
+[2026-04-19 12:26:09,344:INFO]:>>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2026-04-19 12:26:09,960:INFO]:127.0.0.1 - - [19/Apr/2026 12:26:09] "GET /train HTTP/1.1" 200 -]
+[2026-04-19 12:26:12,109:INFO]:127.0.0.1 - - [19/Apr/2026 12:26:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2026-04-19 12:26:55,433:INFO]:127.0.0.1 - - [19/Apr/2026 12:26:55] "GET / HTTP/1.1" 200 -]
+[2026-04-19 12:26:55,555:INFO]:127.0.0.1 - - [19/Apr/2026 12:26:55] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:26:55,564:INFO]:127.0.0.1 - - [19/Apr/2026 12:26:55] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:26:55,569:INFO]:127.0.0.1 - - [19/Apr/2026 12:26:55] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:26:55,572:INFO]:127.0.0.1 - - [19/Apr/2026 12:26:55] "[33mGET /static/js/scripts.js HTTP/1.1[0m" 404 -]
+[2026-04-19 12:26:56,417:INFO]:127.0.0.1 - - [19/Apr/2026 12:26:56] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:26:56,420:INFO]:127.0.0.1 - - [19/Apr/2026 12:26:56] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:26:56,494:INFO]:127.0.0.1 - - [19/Apr/2026 12:26:56] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2026-04-19 12:27:09,663:INFO]:127.0.0.1 - - [19/Apr/2026 12:27:09] "POST /predict HTTP/1.1" 200 -]
+[2026-04-19 12:27:24,505:INFO]:127.0.0.1 - - [19/Apr/2026 12:27:24] "POST /predict HTTP/1.1" 200 -]
+[2026-04-19 12:28:32,809:INFO]:127.0.0.1 - - [19/Apr/2026 12:28:32] "POST /predict HTTP/1.1" 200 -]
+[2026-04-19 12:28:35,751:INFO]:127.0.0.1 - - [19/Apr/2026 12:28:35] "GET / HTTP/1.1" 200 -]
+[2026-04-19 12:28:35,797:INFO]:127.0.0.1 - - [19/Apr/2026 12:28:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:28:35,802:INFO]:127.0.0.1 - - [19/Apr/2026 12:28:35] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:28:35,807:INFO]:127.0.0.1 - - [19/Apr/2026 12:28:35] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:28:35,817:INFO]:127.0.0.1 - - [19/Apr/2026 12:28:35] "[33mGET /static/js/scripts.js HTTP/1.1[0m" 404 -]
+[2026-04-19 12:28:35,982:INFO]:127.0.0.1 - - [19/Apr/2026 12:28:35] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:28:36,000:INFO]:127.0.0.1 - - [19/Apr/2026 12:28:36] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:28:36,008:INFO]:127.0.0.1 - - [19/Apr/2026 12:28:36] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2026-04-19 12:28:42,360:INFO]:127.0.0.1 - - [19/Apr/2026 12:28:42] "POST /predict HTTP/1.1" 200 -]
+[2026-04-19 12:30:28,677:INFO]:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.21.135.76:8080]
+[2026-04-19 12:30:28,678:INFO]:[33mPress CTRL+C to quit[0m]
+[2026-04-19 12:30:28,678:INFO]: * Restarting with stat]
+[2026-04-19 12:30:29,510:WARNING]: * Debugger is active!]
+[2026-04-19 12:30:29,511:INFO]: * Debugger PIN: 521-161-780]
+[2026-04-19 12:30:34,895:INFO]:127.0.0.1 - - [19/Apr/2026 12:30:34] "GET / HTTP/1.1" 200 -]
+[2026-04-19 12:30:35,132:INFO]:127.0.0.1 - - [19/Apr/2026 12:30:35] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:30:35,136:INFO]:127.0.0.1 - - [19/Apr/2026 12:30:35] "[33mGET /static/js/scripts.js HTTP/1.1[0m" 404 -]
+[2026-04-19 12:30:35,138:INFO]:127.0.0.1 - - [19/Apr/2026 12:30:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:30:35,141:INFO]:127.0.0.1 - - [19/Apr/2026 12:30:35] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:30:36,237:INFO]:127.0.0.1 - - [19/Apr/2026 12:30:36] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:30:36,241:INFO]:127.0.0.1 - - [19/Apr/2026 12:30:36] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:30:36,347:INFO]:127.0.0.1 - - [19/Apr/2026 12:30:36] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2026-04-19 12:30:45,195:INFO]:127.0.0.1 - - [19/Apr/2026 12:30:45] "POST /predict HTTP/1.1" 200 -]
+[2026-04-19 12:34:34,228:INFO]: * Detected change in '/home/verma/end_to_end_mlops/app.py', reloading]
+[2026-04-19 12:34:34,521:INFO]: * Restarting with stat]
+[2026-04-19 12:34:35,600:WARNING]: * Debugger is active!]
+[2026-04-19 12:34:35,602:INFO]: * Debugger PIN: 521-161-780]
+[2026-04-19 12:34:41,663:INFO]: * Detected change in '/home/verma/end_to_end_mlops/app.py', reloading]
+[2026-04-19 12:34:41,915:INFO]: * Restarting with stat]
+[2026-04-19 12:34:43,105:WARNING]: * Debugger is active!]
+[2026-04-19 12:34:43,107:INFO]: * Debugger PIN: 521-161-780]
+[2026-04-19 12:34:49,160:INFO]: * Detected change in '/home/verma/end_to_end_mlops/app.py', reloading]
+[2026-04-19 12:34:49,337:INFO]: * Restarting with stat]
+[2026-04-19 12:34:52,709:INFO]:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.21.135.76:8080]
+[2026-04-19 12:34:52,709:INFO]:[33mPress CTRL+C to quit[0m]
+[2026-04-19 12:34:52,710:INFO]: * Restarting with stat]
+[2026-04-19 12:34:53,787:WARNING]: * Debugger is active!]
+[2026-04-19 12:34:53,788:INFO]: * Debugger PIN: 521-161-780]
+[2026-04-19 12:34:57,847:INFO]:127.0.0.1 - - [19/Apr/2026 12:34:57] "GET / HTTP/1.1" 200 -]
+[2026-04-19 12:34:58,063:INFO]:127.0.0.1 - - [19/Apr/2026 12:34:58] "[33mGET /static/js/scripts.js HTTP/1.1[0m" 404 -]
+[2026-04-19 12:34:58,065:INFO]:127.0.0.1 - - [19/Apr/2026 12:34:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:34:58,072:INFO]:127.0.0.1 - - [19/Apr/2026 12:34:58] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:34:58,074:INFO]:127.0.0.1 - - [19/Apr/2026 12:34:58] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:34:59,026:INFO]:127.0.0.1 - - [19/Apr/2026 12:34:59] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:34:59,112:INFO]:127.0.0.1 - - [19/Apr/2026 12:34:59] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:34:59,151:INFO]:127.0.0.1 - - [19/Apr/2026 12:34:59] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2026-04-19 12:35:07,173:INFO]:127.0.0.1 - - [19/Apr/2026 12:35:07] "POST /predict HTTP/1.1" 200 -]
+[2026-04-19 12:37:59,016:INFO]: * Detected change in '/home/verma/end_to_end_mlops/app.py', reloading]
+[2026-04-19 12:37:59,175:INFO]: * Restarting with stat]
+[2026-04-19 12:38:00,283:WARNING]: * Debugger is active!]
+[2026-04-19 12:38:00,286:INFO]: * Debugger PIN: 521-161-780]
+[2026-04-19 12:38:10,963:INFO]:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.21.135.76:8080]
+[2026-04-19 12:38:10,963:INFO]:[33mPress CTRL+C to quit[0m]
+[2026-04-19 12:38:10,965:INFO]: * Restarting with stat]
+[2026-04-19 12:38:11,882:WARNING]: * Debugger is active!]
+[2026-04-19 12:38:11,883:INFO]: * Debugger PIN: 521-161-780]
+[2026-04-19 12:38:14,516:INFO]:127.0.0.1 - - [19/Apr/2026 12:38:14] "GET / HTTP/1.1" 200 -]
+[2026-04-19 12:38:14,822:INFO]:127.0.0.1 - - [19/Apr/2026 12:38:14] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:38:14,831:INFO]:127.0.0.1 - - [19/Apr/2026 12:38:14] "[33mGET /static/js/scripts.js HTTP/1.1[0m" 404 -]
+[2026-04-19 12:38:14,833:INFO]:127.0.0.1 - - [19/Apr/2026 12:38:14] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:38:14,837:INFO]:127.0.0.1 - - [19/Apr/2026 12:38:14] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:38:15,886:INFO]:127.0.0.1 - - [19/Apr/2026 12:38:15] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:38:15,893:INFO]:127.0.0.1 - - [19/Apr/2026 12:38:15] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:38:16,012:INFO]:127.0.0.1 - - [19/Apr/2026 12:38:16] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2026-04-19 12:38:29,699:INFO]:127.0.0.1 - - [19/Apr/2026 12:38:29] "POST /predict HTTP/1.1" 200 -]
+[2026-04-19 12:44:42,056:INFO]: * Detected change in '/home/verma/end_to_end_mlops/src/ml_project/components/data_transformation.py', reloading]
+[2026-04-19 12:44:42,684:INFO]: * Restarting with stat]
+[2026-04-19 12:45:01,956:INFO]:>>>>>>> stage Data Ingestion Stage started<<<<<<]
+[2026-04-19 12:45:01,959:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 12:45:01,960:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 12:45:01,961:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 12:45:01,962:INFO]:Created directory at: artifacts]
+[2026-04-19 12:45:01,963:INFO]:Created directory at: artifacts/data_ingestion]
+[2026-04-19 12:45:02,900:INFO]:artifacts/data_ingestion/data.csv download! with following info: 
+Connection: close
+Content-Length: 78057
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: text/plain; charset=utf-8
+ETag: "ca7a85dc19efbe7c0c1cdf8ed8df8b6bf57ce00648f6dc267ffecfd84ff97101"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: DADC:29F54A:241CD2:5B86F8:69E4A725
+Accept-Ranges: bytes
+Date: Sun, 19 Apr 2026 12:45:02 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830067-CCU
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1776602703.562405,VS0,VE299
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7a351c6616b06bf4948e6e79647af4a981717c8e
+Expires: Sun, 19 Apr 2026 12:50:02 GMT
+Source-Age: 0
+
+]
+[2026-04-19 12:45:02,900:INFO]:>>>>>>> stage Data Ingestion Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-19 12:45:02,900:INFO]:>>>>>>> stage Data Validation Stage started<<<<<<]
+[2026-04-19 12:45:02,904:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 12:45:02,905:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 12:45:02,906:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 12:45:02,907:INFO]:Created directory at: artifacts]
+[2026-04-19 12:45:02,908:INFO]:Created directory at: artifacts/data_validation]
+[2026-04-19 12:45:02,939:INFO]:>>>>>>> stage Data Validation Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-19 12:45:02,939:INFO]:>>>>>>> stage Data Transformation Stage started<<<<<<]
+[2026-04-19 12:45:02,943:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 12:45:02,944:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 12:45:02,946:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 12:45:02,946:INFO]:Created directory at: artifacts]
+[2026-04-19 12:45:02,947:INFO]:Created directory at: artifacts/data_transformation]
+[2026-04-19 12:45:02,974:INFO]:Splited data into training and test sets]
+[2026-04-19 12:45:02,974:INFO]:(857, 12)]
+[2026-04-19 12:45:02,975:INFO]:(286, 12)]
+[2026-04-19 12:45:02,975:INFO]:>>>>>>> stage Data Transformation Stagecompleted <<<<<<
+
+x==========x]
+[2026-04-19 12:45:02,975:INFO]:>>>>>> stage Model Trainer Stage started <<<<<<]
+[2026-04-19 12:45:02,978:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 12:45:02,979:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 12:45:02,981:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 12:45:02,981:INFO]:Created directory at: artifacts]
+[2026-04-19 12:45:02,982:INFO]:Created directory at: artifacts/model_trainer]
+[2026-04-19 12:45:02,995:INFO]:>>>>>> stage Model Trainer Stage completed <<<<<<
+
+x==========x]
+[2026-04-19 12:45:02,995:INFO]:>>>>>> stage Model Evaluation Stage started <<<<<<]
+[2026-04-19 12:45:02,998:INFO]:YAML file loaded successfully from: config/config.yaml]
+[2026-04-19 12:45:02,999:INFO]:YAML file loaded successfully from: params.yaml]
+[2026-04-19 12:45:03,000:INFO]:YAML file loaded successfully from: schema.yaml]
+[2026-04-19 12:45:03,001:INFO]:Created directory at: artifacts]
+[2026-04-19 12:45:03,002:INFO]:Created directory at: artifacts/model_evaluation]
+[2026-04-19 12:45:04,269:INFO]:JSON file saved at: artifacts/model_evaluation/metrics.json]
+[2026-04-19 12:45:13,220:INFO]:>>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2026-04-19 12:45:17,092:INFO]:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.21.135.76:8080]
+[2026-04-19 12:45:17,092:INFO]:[33mPress CTRL+C to quit[0m]
+[2026-04-19 12:45:17,094:INFO]: * Restarting with stat]
+[2026-04-19 12:45:17,970:WARNING]: * Debugger is active!]
+[2026-04-19 12:45:17,971:INFO]: * Debugger PIN: 521-161-780]
+[2026-04-19 12:45:19,430:INFO]:127.0.0.1 - - [19/Apr/2026 12:45:19] "GET / HTTP/1.1" 200 -]
+[2026-04-19 12:45:19,714:INFO]:127.0.0.1 - - [19/Apr/2026 12:45:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:45:19,717:INFO]:127.0.0.1 - - [19/Apr/2026 12:45:19] "[33mGET /static/js/scripts.js HTTP/1.1[0m" 404 -]
+[2026-04-19 12:45:19,726:INFO]:127.0.0.1 - - [19/Apr/2026 12:45:19] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:45:19,730:INFO]:127.0.0.1 - - [19/Apr/2026 12:45:19] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:45:20,768:INFO]:127.0.0.1 - - [19/Apr/2026 12:45:20] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:45:20,772:INFO]:127.0.0.1 - - [19/Apr/2026 12:45:20] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2026-04-19 12:45:20,873:INFO]:127.0.0.1 - - [19/Apr/2026 12:45:20] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2026-04-19 12:45:32,378:INFO]:127.0.0.1 - - [19/Apr/2026 12:45:32] "POST /predict HTTP/1.1" 200 -]
+[2026-04-19 12:45:32,460:INFO]:127.0.0.1 - - [19/Apr/2026 12:45:32] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2026-04-19 12:45:32,471:INFO]:127.0.0.1 - - [19/Apr/2026 12:45:32] "[33mGET /static/js/scripts.js HTTP/1.1[0m" 404 -]
+[2026-04-19 12:45:32,609:INFO]:127.0.0.1 - - [19/Apr/2026 12:45:32] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
+[2026-04-19 17:50:19,628:INFO]: * Detected change in '/home/verma/end_to_end_mlops/src/ml_project/pipeline/prediction.py', reloading]
